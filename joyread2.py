@@ -1,5 +1,5 @@
 import hid
-import pyatogui
+import pyautogui
 
 #open device:
 
